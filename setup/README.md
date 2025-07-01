@@ -15,10 +15,10 @@ git clone https://github.com/<your-username>/intro-to-js-functions-lab.git
 
 > Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
-Next, `cd` into your new cloned directory, `intro-to-javascript-functions-lab`:
+Next, `cd` into your new cloned directory, `intro-to-js-functions-lab`:
 
 ```bash
-cd intro-to-javascript-functions-lab
+cd intro-to-js-functions-lab
 ```
 
 Then, create an **`app.js`** and an **`index.html`** file. These files will hold your work for this lab:
